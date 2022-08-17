@@ -1,0 +1,8 @@
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\lists_csharp\list_with_csharp\list_with_csharp\bin\Debug\list_with_csharp.exe.config
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\lists_csharp\list_with_csharp\list_with_csharp\bin\Debug\list_with_csharp.exe
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\lists_csharp\list_with_csharp\list_with_csharp\bin\Debug\list_with_csharp.pdb
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\lists_csharp\list_with_csharp\list_with_csharp\obj\Debug\list_with_csharp.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\lists_csharp\list_with_csharp\list_with_csharp\obj\Debug\list_with_csharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\lists_csharp\list_with_csharp\list_with_csharp\obj\Debug\list_with_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\lists_csharp\list_with_csharp\list_with_csharp\obj\Debug\list_with_csharp.exe
+C:\Users\Lucas\Desktop\Programation\ESTUDOS\Andre_Mentor_DEV_BACKEND\cursoAndre\lists_csharp\list_with_csharp\list_with_csharp\obj\Debug\list_with_csharp.pdb

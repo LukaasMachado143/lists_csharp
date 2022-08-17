@@ -10,6 +10,8 @@ namespace list_with_csharp
     {
         static void Main(string[] args)
         {
+            List<string> clients = new List<string>();
+
         }
     }
 }
